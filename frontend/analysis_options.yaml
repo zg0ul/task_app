@@ -13,5 +13,5 @@ linter:
 # https://dart.dev/tools/linter-rules
 
 formatter:
-  page_width: 120
+  page_width: 80
   trailing_commas: preserve
